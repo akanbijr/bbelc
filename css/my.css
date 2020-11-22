@@ -6,3 +6,7 @@
 {
     text-transform: capitalize;
 }
+.lower-content h3
+{
+    text-transform: uppercase;
+}

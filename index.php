@@ -613,5 +613,5 @@ include "include/head.php" ?>
     </section>
     <!-- contact-section end -->
 
-    <?php $thisPage ="home"; 
+    <?php 
 include "include/footer.php" ?>
