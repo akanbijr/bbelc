@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<!-- Mirrored from azim.commonsupport.com/Kidko/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Nov 2020 11:28:43 GMT -->
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>BBLC - <?php if ($thisPage =="home")  echo " HOME"; if ($thisPage =="classes")  echo " CLASSES"; ?></title>
+<title>Bright Beginnings Early Learning Center - <?php if ($thisPage =="home")  echo " Home"; if ($thisPage =="contact")  echo " Contact"; ?></title>
 
 <!-- Stylesheets -->
 <link href="css/style.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 <link href="css/my.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/abiodun.css">
 </head>
 
 <!-- page wrapper -->
@@ -65,11 +64,11 @@
                         <ul class="info-list">
                             <li>
                                 <i class="fas fa-phone"></i>
-                                <a href="tel:12345615523">123 4561 5523</a>
+                                <a href="tel:12345615523">081234567891</a>
                             </li>
                             <li>
                                 <i class="fas fa-envelope"></i>
-                                <a href="mailto:info@example.com">info@example.com</a>
+                                <a href="mailto:info@example.com">info@bbelcabuja.com</a>
                             </li>
                         </ul>
                     </div>
@@ -96,7 +95,6 @@
                         <div class="menu-area">
                             <nav class="main-menu navbar-expand-lg">
                                 <div class="navbar-header">
-                                    <!-- Toggle Button -->      
                                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
@@ -105,43 +103,25 @@
                                 </div>
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
-                                        <li <?php if ($thisPage =="home")  echo " class=\"current\""; ?> ><a href="index.php">Home</a>
-                                          
+                                        <li <?php if ($thisPage =="home")  echo " class=\"current\""; ?> ><a href="index.php">Home</a>    
                                         </li>
-                                        <li class="dropdown"><a href="#">About</a>
-                                            <ul>
-                                                <li><a href="about.html">About Us</a></li>
-                                                <li><a href="faq.html">Faq Page</a></li>
-                                                <li><a href="testimonial.html">Testimonials</a></li>
-                                                <li><a href="error.html">Error Page</a></li>
+                                        <li class="dropdown"><a href="#">About Us</a>
+                                            <ul>                                        
+                                                <li><a href="about.php">About BBELC</a></li>
+                                                <li><a href="testimonial.php">Testimonials</a></li>
+                                                <li><a href="teachers.php">Our Teachers</a></li>
+                                                <li><a href="faq.php">Frequently Asked Questions</a></li>
                                             </ul>
                                         </li> 
                                         <li <?php if ($thisPage =="classes")  echo " class=\"current\""; ?> ><a href="classes.php">Classes</a>
                                             
                                         </li> 
                                         <li class="logo-box">
-                                            <figure class="logo"><a href="index-2.html"><img src="images/logo.png" alt=""></a></figure>
+                                            <figure class="logo"><a href="index.php"><img src="images/logo.png" alt=""></a></figure>
                                         </li>
-                                        <li class="dropdown"><a href="#">Pages</a>
-                                            <ul>
-                                                <li><a href="gallery.html">Our Gallery</a></li>
-                                                <li><a href="teachers.html">Our Teachers</a></li>
-                                                <li><a href="pricing.html">Pricing Table</a></li>
-                                                <li><a href="event.html">Our Events</a></li>
-                                                <li><a href="event-details.html">Event Details</a></li>
-                                                <li><a href="shop.html">Shop Page</a></li>
-                                                <li><a href="shop-details.html">Shop Details</a></li>
-                                                <li><a href="cart.html">Cart Page</a></li>
-                                                <li><a href="checkout.html">Checkout Page</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Blog</a>
-                                            <ul>
-                                                <li><a href="blog.html">Blog Page</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
-                                            </ul>
-                                        </li>                              
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="gallery.php">Our Gallery</a>
+                                        </li>                     
+                                        <li><a href="contact.php">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </nav>
@@ -154,7 +134,7 @@
         <!--Sticky Header-->
         <div class="sticky-header">
             <div class="container clearfix">
-                <figure class="logo-box"><a href="index-2.html"><img src="images/small-logo.png" alt=""></a></figure>
+                <figure class="logo-box"><a href="index.php"><img src="images/small-logo.png" alt=""></a></figure>
                 <div class="menu-area">
                     <nav class="main-menu navbar-expand-lg">
                         <div class="navbar-header">
@@ -170,37 +150,20 @@
                                 <li <?php if ($thisPage =="home")  echo " class=\"current\""; ?> ><a href="index.php">Home</a>
                                           
                                 </li>
-                                <li class="dropdown"><a href="#">About</a>
+                                <li class="dropdown"><a href="#">About Us</a>
                                     <ul>
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="faq.html">Faq Page</a></li>
-                                        <li><a href="testimonial.html">Testimonials</a></li>
-                                        <li><a href="error.html">Error Page</a></li>
+                                        <li><a href="about.php">About BBELC</a></li>
+                                        <li><a href="testimonial.php">Testimonials</a></li>
+                                        <li><a href="teachers.php">Our Teachers</a></li>
+                                        <li><a href="faq.php">Frequently Asked Questions</a></li>
                                     </ul>
                                 </li> 
                                 <li <?php if ($thisPage =="classes")  echo " class=\"current\""; ?> ><a href="classes.php">Classes</a>
                                             
                                 </li> 
-                                <li class="dropdown"><a href="#">Pages</a>
-                                    <ul>
-                                        <li><a href="gallery.html">Our Gallery</a></li>
-                                        <li><a href="teachers.html">Our Teachers</a></li>
-                                        <li><a href="pricing.html">Pricing Table</a></li>
-                                        <li><a href="event.html">Our Events</a></li>
-                                        <li><a href="event-details.html">Event Details</a></li>
-                                        <li><a href="shop.html">Shop Page</a></li>
-                                        <li><a href="shop-details.html">Shop Details</a></li>
-                                        <li><a href="cart.html">Cart Page</a></li>
-                                        <li><a href="checkout.html">Checkout Page</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="#">Blog</a>
-                                    <ul>
-                                        <li><a href="blog.html">Blog Page</a></li>
-                                        <li><a href="blog-details.html">Blog Details</a></li>
-                                    </ul>
-                                </li>                              
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="gallery.php">Our Gallery</a>
+                                </li>                          
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </nav>
@@ -208,4 +171,3 @@
             </div>
         </div><!-- sticky-header end -->
     </header>
-    <!-- End Main Header -->
