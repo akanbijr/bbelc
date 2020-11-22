@@ -18,19 +18,20 @@ include "include/head.php" ?>
 
 
     <!-- news-section -->
-    <section class="news-section blog-page-section">
+    <section class="news-section classes-section blog-page-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                    <div class="news-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
+                    <div class="news-block-one  inner-block  wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <figure class="image-box"><a href="contact.php"><img src="images/resource/news-1.jpg" alt=""></a></figure>
                             <div class="lower-content">
                                 <h3>LADYBIRD</h3>
                                 <ul class="info-box">
-                                    <li>6 Months  - 18 Months</li>
+                                    <li>6 Months  - 18 Months</li>                                 
                                     
                                 </ul>
+                                
                                 <!-- <div class="text">Lorem ipsum dolor sit amet, consectetur pisicelit sed do eiusmod tempor incidie labore magna aliqua.</div> -->
                                 <div class="link-btn"><a href="contact.php"><i class="flaticon-next"></i></a></div>
                                 <div class="more-btn"><a href="contact.php" class="theme-btn">Enrol Now</a></div>
@@ -39,7 +40,7 @@ include "include/head.php" ?>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                    <div class="news-block-one wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    <div class="news-block-one inner-block  wow fadeInUp" data- inner-block wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <figure class="image-box"><a href="contact.php"><img src="images/resource/news-2.jpg" alt=""></a></figure>
                             <div class="lower-content">
@@ -56,13 +57,14 @@ include "include/head.php" ?>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                    <div class="news-block-one wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
+                    <div class="news-block-one inner-block  wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <figure class="image-box"><a href="contact.php"><img src="images/resource/news-3.jpg" alt=""></a></figure>
                             <div class="lower-content">
                                 <h3>Bumblebees </h3>
                                 <ul class="info-box">
-                                    <li>3 - 4 Years</li>
+                                    
+                                    <li>Age: 3 - 4 Years</li>
                                     
                                 </ul>
                                 <!-- <div class="text">Lorem ipsum dolor sit amet, consectetur pisicelit sed do eiusmod tempor incidie labore magna aliqua.</div> -->
@@ -73,7 +75,7 @@ include "include/head.php" ?>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                    <div class="news-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
+                    <div class="news-block-one inner-block  wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <figure class="image-box"><a href="contact.php"><img src="images/resource/news-5.jpg" alt=""></a></figure>
                             <div class="lower-content">
@@ -90,7 +92,7 @@ include "include/head.php" ?>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                    <div class="news-block-one wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    <div class="news-block-one inner-block  wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <figure class="image-box"><a href="contact.php"><img src="images/resource/news-6.jpg" alt=""></a></figure>
                             <div class="lower-content">

@@ -1684,7 +1684,7 @@ h3 a:hover{
 
 .classes-section .inner-block .lower-content .link-btn{
   position: absolute;
-  top: -35px;
+  /* top: -35px; */
   right: 40px;
 }
 
@@ -2772,7 +2772,7 @@ h3 a:hover{
 
 .news-block-one .inner-box .lower-content h3{
   line-height: 28px;
-  margin-bottom: 7px;
+  margin-bottom: 30px;
 }
 
 .news-block-one .inner-box .lower-content .info-box{
@@ -3133,11 +3133,13 @@ h3 a:hover{
 
 .main-slider .nav-style-two .owl-nav .owl-prev,
 .main-slider .nav-style-two .owl-nav .owl-next{
-  right: 70px;
+  right: 0px;
+  top: -85px;
 }
 
 .main-slider .nav-style-two .owl-nav .owl-prev{
   top: -85px;
+  left: 0px;
 }
 
 
@@ -3937,7 +3939,7 @@ h3 a:hover{
 .classes-section.style-three .carousel-content{
   position: relative;
   display: block;
-  margin-right: -500px;
+  margin-right: -510px;
 }
 
 .classes-section.style-three .owl-nav .owl-prev, 

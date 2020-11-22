@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>BBLC - <?php if ($thisPage =="home")  echo " HOME"; if ($thisPage =="classes")  echo " CLASSES"; ?></title>
+<title>BBELC - <?php if ($thisPage =="home")  echo " HOME"; if ($thisPage =="classes")  echo " CLASSES"; ?></title>
 
 <!-- Stylesheets -->
 <link href="css/style.css" rel="stylesheet">
@@ -92,6 +92,9 @@
         <div class="header-bottom">
             <div class="container">
                 <div class="inner-container">
+                    <!-- <div class="logo-box pull-left">
+                        <figure class="logo"><a href="index-2.html"><img src="images/logo.png" alt=""></a></figure>
+                    </div> -->
                     <div class="nav-outer">
                         <div class="menu-area">
                             <nav class="main-menu navbar-expand-lg">
@@ -102,6 +105,8 @@
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                     </button>
+                                    
+                            
                                 </div>
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
