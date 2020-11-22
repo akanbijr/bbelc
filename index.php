@@ -92,7 +92,7 @@ include "include/head.php" ?>
                 <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                     <div class="content-box">
                         <div class="sec-title style-two">
-                            <h5>About Us</h5>
+                            <!-- <h5>About Us</h5> -->
                             <h1 class="capitalize">Welcome to bright beginnings nursery and primary school</h1>
                         </div>
                         <div class="bold-text">We provide a broad and balanced curriculum with a focus on teaching and learning to enable each child to achieve his/her potential.</div>

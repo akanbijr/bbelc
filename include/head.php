@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>BBLC - <?php if ($thisPage =="home")  echo " HOME"; ?></title>
+<title>BBLC - <?php if ($thisPage =="home")  echo " HOME"; if ($thisPage =="classes")  echo " CLASSES"; ?></title>
 
 <!-- Stylesheets -->
 <link href="css/style.css" rel="stylesheet">
@@ -105,19 +105,8 @@
                                 </div>
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
-                                        <li class="current dropdown"><a href="#">Home</a>
-                                            <ul>
-                                                <li><a href="index-2.html">Home Page 01</a></li>
-                                                <li><a href="index-3.html">Home Page 02</a></li>
-                                                <li><a href="index-4.html">Home Page 03</a></li>
-                                                <li class="dropdown"><a href="#">Header Styles</a>
-                                                <ul>
-                                                    <li><a href="index-2.html">Header Style 01</a></li>
-                                                    <li><a href="index-3.html">Header Style 02</a></li>
-                                                    <li><a href="index-4.html">Header Style 03</a></li>
-                                                </ul>
-                                            </li>
-                                            </ul>
+                                        <li <?php if ($thisPage =="home")  echo " class=\"current\""; ?> ><a href="index.php">Home</a>
+                                          
                                         </li>
                                         <li class="dropdown"><a href="#">About</a>
                                             <ul>
@@ -127,11 +116,8 @@
                                                 <li><a href="error.html">Error Page</a></li>
                                             </ul>
                                         </li> 
-                                        <li class="dropdown"><a href="#">Classes</a>
-                                            <ul>
-                                                <li><a href="class.html">Our Classes</a></li>
-                                                <li><a href="class-details.html">Class Details</a></li>
-                                            </ul>
+                                        <li <?php if ($thisPage =="classes")  echo " class=\"current\""; ?> ><a href="classes.php">Classes</a>
+                                            
                                         </li> 
                                         <li class="logo-box">
                                             <figure class="logo"><a href="index-2.html"><img src="images/logo.png" alt=""></a></figure>
@@ -181,19 +167,8 @@
                         </div>
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
-                                <li class="current dropdown"><a href="#">Home</a>
-                                    <ul>
-                                        <li><a href="index-2.html">Home Page 01</a></li>
-                                        <li><a href="index-3.html">Home Page 02</a></li>
-                                        <li><a href="index-4.html">Home Page 03</a></li>
-                                        <li class="dropdown"><a href="#">Header Styles</a>
-                                        <ul>
-                                            <li><a href="index-2.html">Header Style 01</a></li>
-                                            <li><a href="index-3.html">Header Style 02</a></li>
-                                            <li><a href="index-4.html">Header Style 03</a></li>
-                                        </ul>
-                                    </li>
-                                    </ul>
+                                <li <?php if ($thisPage =="home")  echo " class=\"current\""; ?> ><a href="index.php">Home</a>
+                                          
                                 </li>
                                 <li class="dropdown"><a href="#">About</a>
                                     <ul>
@@ -203,11 +178,8 @@
                                         <li><a href="error.html">Error Page</a></li>
                                     </ul>
                                 </li> 
-                                <li class="dropdown"><a href="#">Classes</a>
-                                    <ul>
-                                        <li><a href="class.html">Our Classes</a></li>
-                                        <li><a href="class-details.html">Class Details</a></li>
-                                    </ul>
+                                <li <?php if ($thisPage =="classes")  echo " class=\"current\""; ?> ><a href="classes.php">Classes</a>
+                                            
                                 </li> 
                                 <li class="dropdown"><a href="#">Pages</a>
                                     <ul>
