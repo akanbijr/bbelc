@@ -7,7 +7,7 @@ include "include/head.php" ?>
     <section class="page-title centred" style="background-image: url(images/background/page-title.jpg);">
         <div class="container">
             <div class="content-box">
-                <h1>Error Page</h1>
+                <h1>Error</h1>
                 <ul class="bread-crumb clearfix">
                     <li><a href="index.php">Home</a></li>
                     <li>About</li>
@@ -15,10 +15,6 @@ include "include/head.php" ?>
             </div>
         </div>
     </section>
-    <!--End Page Title-->
-
-
-    <!-- error-section -->
     <section class="error-section centred">
         <div class="container">
             <div class="content-box">
@@ -28,5 +24,6 @@ include "include/head.php" ?>
             </div>
         </div>
     </section>
-
+ <?php 
+include "include/footer.php" ?>
 

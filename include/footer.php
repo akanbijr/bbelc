@@ -87,9 +87,9 @@
                     <div class="right-content pull-right">
                         <figure class="footer-logo"><a href="index.php"><img src="images/footer-logo.png" alt=""></a></figure>
                         <ul class="social-style-one footer-social clearfix">
-                            <li><a href="https://facebook.com/bbelcabuja"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="https://instagram.com/bbelcabuja"><i class="fab fa-instagram"></i></a></li>
-                            <li><a href="http://api.whatsapp.com/send?phone=08168791980"><i class="fab fa-whatsapp"></i></a></li>
+                            <li><a href="https://facebook.com/bbelcabuja" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="https://instagram.com/bbelcabuja" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="http://api.whatsapp.com/send?phone=08168791980" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
                         </ul>
                     </div>
                 </div>

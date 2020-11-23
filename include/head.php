@@ -72,6 +72,13 @@
                             </li>
                         </ul>
                     </div>
+                    <div class="social-links pull-right">
+                        <ul class="social-list">
+                            <li><a href="https://facebook.com/bbelcabuja" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="https://instagram.com/bbelcabuja" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="http://api.whatsapp.com/send?phone=08168791980" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                        </ul>
+                    </div>
                     <!-- <div class="outer-content pull-right">
                         <div class="login-box">
                             <i class="fas fa-user"></i>
