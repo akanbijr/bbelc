@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>BBELC - <?php if ($thisPage =="home")  echo " HOME"; if ($thisPage =="classes")  echo " CLASSES"; ?></title>
+<title>BBELC - <?php if ($thisPage =="home")  echo " HOME"; if ($thisPage =="classes")  echo " CLASSES"; if ($thisPage =="contact")  echo " CONTACT"; ?></title>
 
 <!-- Stylesheets -->
 <link href="css/style.css" rel="stylesheet">
@@ -147,7 +147,9 @@
                                                 <li><a href="blog-details.html">Blog Details</a></li>
                                             </ul>
                                         </li>                              
-                                        <li><a href="contact.php">Contact</a></li>
+                                        <li <?php if ($thisPage =="contact")  echo " class=\"current\""; ?> ><a href="classes.php">Contact</a>
+                                            
+                                            </li> 
                                     </ul>
                                 </div>
                             </nav>
@@ -206,7 +208,9 @@
                                         <li><a href="blog-details.html">Blog Details</a></li>
                                     </ul>
                                 </li>                              
-                                <li><a href="contact.html">Contact</a></li>
+                                <li <?php if ($thisPage =="contact")  echo " class=\"current\""; ?> ><a href="classes.php">Contact</a>
+                                            
+                                </li> 
                             </ul>
                         </div>
                     </nav>
@@ -215,3 +219,4 @@
         </div><!-- sticky-header end -->
     </header>
     <!-- End Main Header -->
+<!-- 098587 -->
