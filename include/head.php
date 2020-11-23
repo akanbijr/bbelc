@@ -62,32 +62,39 @@
         <div class="header-top">
             <div class="container">
                 <div class="inner-container clearfix">
-                    <div class="header-info pull-left">
-                        <ul class="info-list">
-                            <li>
-                                <i class="fas fa-phone"></i>
-                                <a href="tel:+234 81234567890">081234567890</a> 
-                            </li>
-                            <li>
-                                <i class="fas fa-envelope"></i>
-                                <a href="mailto:brightbeginnings1@gmail.com">brightbeginnings1@gmail.com</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <!-- <div class="outer-content pull-right">
-                        <div class="login-box">
-                            <i class="fas fa-user"></i>
-                            <a href="#">Log in or Register</a>
+                        <div class="header-info pull-left">
+                            <ul class="info-list">
+                                <li>
+                                    <i class="fas fa-phone"></i>
+                                    <a href="tel:12345615523">081234567891</a>
+                                </li>
+                                <li>
+                                    <i class="fas fa-envelope"></i>
+                                    <a href="mailto:info@example.com">info@bbelcabj.com</a>
+                                </li>
+                            </ul>
                         </div>
-                        <ul class="clearfix">
-                            <li class="header-flyout-searchbar">
-                                <i class="fa fa-search"></i>
-                            </li>
-                            <li><a href="shop.html"><i class="fas fa-shopping-cart"></i></a></li>
-                        </ul>
-                    </div> -->
+                        <div class="social-links pull-right">
+                            <ul class="social-list">
+                                <li><a href="https://facebook.com/bbelcabuja" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://instagram.com/bbelcabuja" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="http://api.whatsapp.com/send?phone=08168791980" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                            </ul>
+                        </div>
+                        <!-- <div class="outer-content pull-right">
+                            <div class="login-box">
+                                <i class="fas fa-user"></i>
+                                <a href="#">Log in or Register</a>
+                            </div>
+                            <ul class="clearfix">
+                                <li class="header-flyout-searchbar">
+                                    <i class="fa fa-search"></i>
+                                </li>
+                                <li><a href="shop.html"><i class="fas fa-shopping-cart"></i></a></li>
+                            </ul>
+                        </div> -->
+                    </div>
                 </div>
-            </div>
         </div>
 
         <div class="header-bottom">
