@@ -1,6 +1,7 @@
 <?php $thisPage ="contact"; 
 include "include/head.php" ?>
 <link rel="stylesheet" type="text/css" href="css/abiodun.css">
+<title>Bright Beginnings Early Learning Center - Contact Us</title>
 
     <!--Page Title-->
     <section class="page-title centred" style="background-image: url(images/background/page-title.jpg);">

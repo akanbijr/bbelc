@@ -5,8 +5,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Bright Beginnings Early Learning Center - <?php if ($thisPage =="home")  echo " Home"; if ($thisPage =="contact")  echo " Contact"; ?></title>
-
 <!-- Stylesheets -->
 <link href="css/style.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
@@ -68,7 +66,7 @@
                             </li>
                             <li>
                                 <i class="fas fa-envelope"></i>
-                                <a href="mailto:info@example.com">info@bbelcabuja.com</a>
+                                <a href="mailto:info@example.com">info@bbelcabj.com</a>
                             </li>
                         </ul>
                     </div>

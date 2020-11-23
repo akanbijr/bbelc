@@ -29,11 +29,11 @@ include "include/head.php" ?>
                             <h5>About Us</h5>
                             <h1>Welcome to Bright Beginnings Early Learning Center, Abuja.</h1>
                         </div>
-                        <div class="bold-text">Our school ethos celebrates achievements and recognizes success<br>
-                        We maintain policies and procedures for everybody in school where everyone feels valued
+                        <div class="bold-text">Our school ethos celebrates achievements and recognizes success.<br>
+                        We maintain policies and procedures for everybody in school where everyone feels valued.
                         </div>
                         <div class="text">
-                            <p>At Bright Beginnings Early Learning Centre, we are an inclusive school that welcomes all children from its community. We offer excellent facilities for children ages 6 months to 6 years within a safe stimulating and fun environment. A large outdoor play area is available.
+                            <p>At Bright Beginnings Early Learning Center, we are an inclusive school that welcomes all children from its community. We offer excellent facilities for children ages 6 months to 6 years within a safe stimulating and fun environment. A large outdoor play area is available.
                             </p>
                         </div>
                         <div class="btn-box"><a href="contact.php" class="theme-btn">Contact us</a></div>
@@ -70,9 +70,9 @@ include "include/head.php" ?>
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                     <div class="inner-block wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <figure class="image-box"><a href="#"><img src="images/resource/class-1.png" alt=""></a></figure>
+                        <figure class="image-box"><img src="images/resource/class-1.png" alt=""></figure>
                         <div class="lower-content">
-                            <h3><a href="#">Lady Bird</a></h3>
+                            <h3>Lady Bird</h3>
                             <ul class="info-box">
                                 <li>Age Range: <span>6-18 Months</span></li>
                             </ul>
@@ -81,9 +81,9 @@ include "include/head.php" ?>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                     <div class="inner-block wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <figure class="image-box"><a href="#"><img src="images/resource/class-2.png" alt=""></a></figure>
+                        <figure class="image-box"><img src="images/resource/class-2.png" alt=""></figure>
                         <div class="lower-content">
-                            <h3><a href="#">Caterpillar</a></h3>
+                            <h3>Caterpillar</h3>
                             <ul class="info-box">
                                 <li>Age Range: <span>18-30 Months</span></li>
                             </ul>
@@ -92,9 +92,9 @@ include "include/head.php" ?>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                     <div class="inner-block wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <figure class="image-box"><a href="#"><img src="images/resource/class-3.png" alt=""></a></figure>
+                        <figure class="image-box"><img src="images/resource/class-3.png" alt=""></figure>
                         <div class="lower-content">
-                            <h3><a href="#">Bumblees</a></h3>
+                            <h3>Bumblees</h3>
                             <ul class="info-box">
                                 <li>Age Range: <span>3-4 Years</span></li>
                             </ul>
@@ -103,9 +103,9 @@ include "include/head.php" ?>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                     <div class="inner-block wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <figure class="image-box"><a href="#"><img src="images/resource/class-4.png" alt=""></a></figure>
+                        <figure class="image-box"><img src="images/resource/class-4.png" alt=""></figure>
                         <div class="lower-content">
-                            <h3><a href="#">Butterfly</a></h3>
+                            <h3>Butterfly</h3>
                             <ul class="info-box">
                                 <li>Age Range: <span>4-5 years</span></li>
                             </ul>
@@ -114,9 +114,9 @@ include "include/head.php" ?>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                     <div class="inner-block wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <figure class="image-box"><a href="#"><img src="images/resource/class-5.png" alt=""></a></figure>
+                        <figure class="image-box"><img src="images/resource/class-5.png" alt=""></figure>
                         <div class="lower-content">
-                            <h3><a href="#">Reception</a></h3>
+                            <h3>Reception</h3>
                             <ul class="info-box">
                                 <li>Age Range: <span>5-6 years</span></li>
                             </ul>
@@ -125,9 +125,9 @@ include "include/head.php" ?>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 block-column">
                     <div class="inner-block wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <figure class="image-box"><a href="#"><img src="images/resource/class-6.png" alt=""></a></figure>
+                        <figure class="image-box"><img src="images/resource/class-6.png" alt=""></figure>
                         <div class="lower-content">
-                            <h3><a href="#">Daily Drop-off</a></h3>
+                            <h3>Daily Drop-off</h3>
                             <ul class="info-box">
                                 <li>Age Range: <span>All ages</span></li>
                             </ul>
@@ -378,28 +378,28 @@ The very first time I stepped my foot in the building, I knew I had gotten what 
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-abc-block"></i></div>
-                                        <h3><a href="#">Full Day Session</a></h3>
+                                        <h3>Full Play Session</h3>
                                         <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInRight" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-teddy-bear"></i></div>
-                                        <h3><a href="#">Table/Floor Toys</a></h3>
+                                        <h3>Table/Floor Toys</h3>
                                         <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-championship"></i></div>
-                                        <h3><a href="#">Outdoor Games</a></h3>
+                                        <h3>Fun Games</h3>
                                         <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInRight" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-playground"></i></div>
-                                        <h3><a href="#">Play Area</a></h3>
+                                        <h3>Play Area</h3>
                                         <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
                                     </div>
                                 </div>

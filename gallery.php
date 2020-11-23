@@ -1,18 +1,20 @@
- <?php 
+<?php $thisPage ="gallery"; 
 include "include/head.php" ?>
 <title>Bright Beginnings Early Learning Center - Our Gallery</title>
-
+    <!--Page Title-->
     <section class="page-title centred" style="background-image: url(images/background/page-title.jpg);">
         <div class="container">
             <div class="content-box">
                 <h1>Our Gallery</h1>
                 <ul class="bread-crumb clearfix">
                     <li><a href="index.php">Home</a></li>
-                    <li>Pages</li>
+                    <li>Gallery</li>
                 </ul>
             </div>
         </div>
     </section>
+    <!--End Page Title-->
+    <!-- portfolio-section -->
     <section class="gallery-page-section">
         <div class="container">
             <div class="sortable-masonry">
@@ -102,5 +104,5 @@ include "include/head.php" ?>
             </div>
         </div>
     </section>
-    <?php 
+ <?php 
 include "include/footer.php" ?>

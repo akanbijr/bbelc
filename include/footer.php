@@ -44,13 +44,12 @@
                             <div class="contact-widget footer-widget">
                                 <h3 class="widget-title">Get in Touch</h3>
                                 <div class="widget-content">
-                                    <div class="text">Visit us today<br>
-                                        so we can start those little<br> steps toward greatness
+                                    <div class="text">Visit us today so that<br> we can start those little<br> steps toward greatness
                                         </div>
                                     <ul class="info-list">
                                         <li><i class="fas fa-home"></i>C14, Sanctuary Court Estate<br>Karmo, Abuja</li>
                                         <li><i class="fas fa-phone"></i><a href="tel:88657524332">0801234503421</a></li>
-                                        <li><i class="fas fa-envelope"></i><a href="mailto:info@example.com">info@bbelcabuja.com</a></li>
+                                        <li><i class="fas fa-envelope"></i><a href="mailto:info@example.com">info@bbelcabj.com</a></li>
                                     </ul>
                                 </div>
                             </div>
