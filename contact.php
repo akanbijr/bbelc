@@ -71,10 +71,10 @@ include "include/head.php" ?>
             <div class="row">
                 <div class="col-lg-8 col-md-12 col-sm-12 offset-lg-2 form-column">
                     <div class="contact-form">
-                        <form method="post" action="http://azim.commonsupport.com/Kidko/sendemail.php" id="contact-form" class="default-form"> 
+                        <form method="post" action="email.php" id="contact-form" class="default-form"> 
                             <div class="row">
                                 <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                    <input type="text" name="username" placeholder="Your Name*" required>
+                                    <input type="text" name="name" placeholder="Your Name*" required>
                                 </div>
                                 <div class="col-lg-6 col-md-12 col-sm-12 form-group">
                                     <input type="email" name="email" placeholder="Your Email*" required>

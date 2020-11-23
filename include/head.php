@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>BBELC - <?php if ($thisPage =="home")  echo " HOME"; if ($thisPage =="classes")  echo " CLASSES"; if ($thisPage =="contact")  echo " CONTACT";  if ($thisPage =="about")  echo " ABOUT"; ?></title>
+<title>BBELC - <?php if ($thisPage =="home")  echo " HOME"; elseif ($thisPage =="classes")  echo " CLASSES";  elseif ($thisPage =="contact")  echo " CONTACT";  elseif ($thisPage =="about")  echo " ABOUT"; elseif ($thisPage =="testimonial")  echo " TESTIMONIAL"; elseif ($thisPage =="teachers")  echo " TEACHERS"; elseif ($thisPage =="faq")  echo " FAQ"; ?> </title>
 
 <!-- Stylesheets -->
 <link href="css/style.css" rel="stylesheet">
@@ -114,12 +114,14 @@
                                         <li <?php if ($thisPage =="home")  echo " class=\"current\""; ?> ><a href="index.php">Home</a>
                                           
                                         </li>
-                                        <li <?php if ($thisPage =="about")  echo " class=\"current dropdown\""; ?> class="dropdown" ><a href="#">About</a>
+                                        <li <?php if ($thisPage =="about")  echo " class=\"current dropdown\"";  elseif ($thisPage =="testimonial")  echo " class=\"current dropdown\""; if ($thisPage =="teachers")  echo " class=\"current dropdown\""; elseif ($thisPage =="faq")  echo " class=\"current dropdown\""; ?> class="dropdown" ><a href="#">About</a>
                                             <ul>
-                                                <li <?php if ($thisPage =="about")  echo " class=\"current\""; ?> ><a href="about.php">About Us</a></li>
-                                                <li><a href="faq.html">Faq Page</a></li>
-                                                <li><a href="testimonial.html">Testimonials</a></li>
-                                                <li><a href="error.html">Error Page</a></li>
+                                                <li><a href="about.php">About BBELC</a></li>
+                                                <li><a href="testimonial.php">Testimonials</a></li>
+                                                <li><a href="teachers.php">Our Teachers</a></li>
+                                                
+                                                <li><a href="faq.php">Frequently Asked Questions </a></li>
+                                                <!-- <li><a href="error.html">Error Page</a></li> -->
                                             </ul>
                                         </li> 
                                         <li <?php if ($thisPage =="classes")  echo " class=\"current\""; ?> ><a href="classes.php">Classes</a>
@@ -128,7 +130,10 @@
                                         <li class="logo-box">
                                             <figure class="logo"><a href="index-2.html"><img src="images/logo.png" alt=""></a></figure>
                                         </li>
-                                        <li class="dropdown"><a href="#">Pages</a>
+                                            <li <?php if ($thisPage =="gallery")  echo " class=\"current\""; ?> ><a href="gallery.php">Gallery</a>
+                                            
+                                            </li> 
+                                        <!-- <li class="dropdown"><a href="#">Pages</a>
                                             <ul>
                                                 <li><a href="gallery.html">Our Gallery</a></li>
                                                 <li><a href="teachers.html">Our Teachers</a></li>
@@ -140,13 +145,13 @@
                                                 <li><a href="cart.html">Cart Page</a></li>
                                                 <li><a href="checkout.html">Checkout Page</a></li>
                                             </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Blog</a>
+                                        </li> -->
+                                        <!-- <li class="dropdown"><a href="#">Blog</a>
                                             <ul>
                                                 <li><a href="blog.html">Blog Page</a></li>
                                                 <li><a href="blog-details.html">Blog Details</a></li>
                                             </ul>
-                                        </li>                              
+                                        </li>                               -->
                                         <li <?php if ($thisPage =="contact")  echo " class=\"current\""; ?> ><a href="contact.php">Contact</a>
                                             
                                             </li> 
@@ -178,18 +183,23 @@
                                 <li <?php if ($thisPage =="home")  echo " class=\"current\""; ?> ><a href="index.php">Home</a>
                                           
                                 </li>
-                                <li <?php if ($thisPage =="about")  echo " class=\"current dropdown\""; ?> class="dropdown"><a href="#">About</a>
+                                <li <?php if ($thisPage =="about")  echo " class=\"current dropdown\""; elseif ($thisPage =="testimonial")  echo " class=\"current dropdown\""; elseif ($thisPage =="teachers")  echo " class=\"current dropdown\""; elseif ($thisPage =="faq")  echo " class=\"current dropdown\"";?> class="dropdown"><a href="#">About</a>
                                     <ul>
-                                        <li <?php if ($thisPage =="about")  echo " class=\"current \""; ?>><a href="about.php">About Us</a></li>
-                                        <li><a href="faq.html">Faq Page</a></li>
-                                        <li><a href="testimonial.html">Testimonials</a></li>
-                                        <li><a href="error.html">Error Page</a></li>
+                                        <li><a href="about.php">About BBELC</a></li>
+                                        <li><a href="testimonial.php">Testimonials</a></li>
+                                        <li><a href="teachers.php">Our Teachers</a></li>
+                                        
+                                        <li><a href="faq.php">Frequently Asked Questions </a></li>
+                                        <!-- <li><a href="error.html">Error Page</a></li> -->
                                     </ul>
                                 </li> 
                                 <li <?php if ($thisPage =="classes")  echo " class=\"current\""; ?> ><a href="classes.php">Classes</a>
                                             
                                 </li> 
-                                <li class="dropdown"><a href="#">Pages</a>
+                                <li <?php if ($thisPage =="gallery")  echo " class=\"current\""; ?> ><a href="gallery.php">Gallery</a>
+                                            
+                                </li> 
+                                <!-- <li class="dropdown"><a href="#">Pages</a>
                                     <ul>
                                         <li><a href="gallery.html">Our Gallery</a></li>
                                         <li><a href="teachers.html">Our Teachers</a></li>
@@ -207,7 +217,7 @@
                                         <li><a href="blog.html">Blog Page</a></li>
                                         <li><a href="blog-details.html">Blog Details</a></li>
                                     </ul>
-                                </li>                              
+                                </li>                               -->
                                 <li <?php if ($thisPage =="contact")  echo " class=\"current\""; ?> ><a href="contact.php">Contact</a>
                                             
                                 </li> 
