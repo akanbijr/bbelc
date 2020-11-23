@@ -9,7 +9,7 @@ include "include/head.php" ?>
                     <div class="content-box">
                         <h3>BBELC</h3>
                         <h1>A place to explore and learn with fun</h1>
-                        <div class="btn-box"><a href="contact.php" class="theme-btn">Contact us</a></div>
+                        <div class="btn-box"><a href="contact.php" class="theme-btn">Enrol Now</a></div>
                     </div>
                 </div>
             </div>
@@ -18,7 +18,7 @@ include "include/head.php" ?>
                     <div class="content-box">
                         <h3>BBELC</h3>
                         <h1>Children build confidence for life</h1>
-                        <div class="btn-box"><a href="contact.php" class="theme-btn">Contact us</a></div>
+                        <div class="btn-box"><a href="contact.php" class="theme-btn">Enrol Now</a></div>
                     </div>
                 </div>
             </div>
@@ -27,7 +27,7 @@ include "include/head.php" ?>
                     <div class="content-box">
                         <h3>BBELC</h3>
                         <h1>We nurture every child's unique abilities</h1>
-                        <div class="btn-box"><a href="contact.php" class="theme-btn">Contact us</a></div>
+                        <div class="btn-box"><a href="contact.php" class="theme-btn">Enrol Now</a></div>
                     </div>
                 </div>
             </div>
@@ -99,7 +99,7 @@ include "include/head.php" ?>
                         <div class="text">
                             <p class="justify">We aim to nurture children to be highly motivated, well behaved, and independent, encouraging each child in experimenting and exploring their environment in order to be imaginative and creative.</p>
                         </div>
-                        <div class="btn-box"><a href="contact.html" class="theme-btn">More About Us</a></div>
+                        <div class="btn-box"><a href="about.php" class="theme-btn">More About Us</a></div>
                     </div>
                 </div>
             </div>
@@ -166,7 +166,7 @@ include "include/head.php" ?>
                             </div>
                             
                         </div> <br><br>
-                        <div class="btn-box"><a href="about.php" class="theme-btn">OUR CLASSES</a></div>
+                        <div class="btn-box"><a href="classes.php" class="theme-btn">OUR CLASSES</a></div>
 
                     </div>
                 </div>
@@ -192,7 +192,7 @@ include "include/head.php" ?>
                                 <h5>Services</h5>
                                 <h1>Our Services</h1>
                             </div>
-                            <div class="text">Bright Beginnings Early Learning Centre avails your children will several services.</div>
+                            <!-- <div class="text">Bright Beginnings Early Learning Centre avails your children will several services.</div> -->
                         </div>
                         <div class="inner-box">
                             <div class="row">
@@ -210,7 +210,7 @@ include "include/head.php" ?>
                                         <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
                                     </div>
                                 </div>
-                                <div class="btn-box"><a href="about.php" class="theme-btn">OUR SERVICES</a></div>
+                                <div class="btn-box"><a href="about.php#service" class="theme-btn">OUR SERVICES</a></div>
 
                                 <!-- <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">

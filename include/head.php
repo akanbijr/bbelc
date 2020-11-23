@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>BBELC - <?php if ($thisPage =="home")  echo " HOME"; if ($thisPage =="classes")  echo " CLASSES"; if ($thisPage =="contact")  echo " CONTACT"; ?></title>
+<title>BBELC - <?php if ($thisPage =="home")  echo " HOME"; if ($thisPage =="classes")  echo " CLASSES"; if ($thisPage =="contact")  echo " CONTACT";  if ($thisPage =="about")  echo " ABOUT"; ?></title>
 
 <!-- Stylesheets -->
 <link href="css/style.css" rel="stylesheet">
@@ -66,11 +66,11 @@
                         <ul class="info-list">
                             <li>
                                 <i class="fas fa-phone"></i>
-                                <a href="tel:12345615523">123 4561 5523</a>
+                                <a href="tel:+234 81234567890">081234567890</a> 
                             </li>
                             <li>
                                 <i class="fas fa-envelope"></i>
-                                <a href="mailto:info@example.com">info@example.com</a>
+                                <a href="mailto:brightbeginnings1@gmail.com">brightbeginnings1@gmail.com</a>
                             </li>
                         </ul>
                     </div>
@@ -114,9 +114,9 @@
                                         <li <?php if ($thisPage =="home")  echo " class=\"current\""; ?> ><a href="index.php">Home</a>
                                           
                                         </li>
-                                        <li class="dropdown"><a href="#">About</a>
+                                        <li <?php if ($thisPage =="about")  echo " class=\"current dropdown\""; ?> class="dropdown" ><a href="#">About</a>
                                             <ul>
-                                                <li><a href="about.html">About Us</a></li>
+                                                <li <?php if ($thisPage =="about")  echo " class=\"current\""; ?> ><a href="about.php">About Us</a></li>
                                                 <li><a href="faq.html">Faq Page</a></li>
                                                 <li><a href="testimonial.html">Testimonials</a></li>
                                                 <li><a href="error.html">Error Page</a></li>
@@ -147,7 +147,7 @@
                                                 <li><a href="blog-details.html">Blog Details</a></li>
                                             </ul>
                                         </li>                              
-                                        <li <?php if ($thisPage =="contact")  echo " class=\"current\""; ?> ><a href="classes.php">Contact</a>
+                                        <li <?php if ($thisPage =="contact")  echo " class=\"current\""; ?> ><a href="contact.php">Contact</a>
                                             
                                             </li> 
                                     </ul>
@@ -178,9 +178,9 @@
                                 <li <?php if ($thisPage =="home")  echo " class=\"current\""; ?> ><a href="index.php">Home</a>
                                           
                                 </li>
-                                <li class="dropdown"><a href="#">About</a>
+                                <li <?php if ($thisPage =="about")  echo " class=\"current dropdown\""; ?> class="dropdown"><a href="#">About</a>
                                     <ul>
-                                        <li><a href="about.html">About Us</a></li>
+                                        <li <?php if ($thisPage =="about")  echo " class=\"current \""; ?>><a href="about.php">About Us</a></li>
                                         <li><a href="faq.html">Faq Page</a></li>
                                         <li><a href="testimonial.html">Testimonials</a></li>
                                         <li><a href="error.html">Error Page</a></li>
@@ -208,7 +208,7 @@
                                         <li><a href="blog-details.html">Blog Details</a></li>
                                     </ul>
                                 </li>                              
-                                <li <?php if ($thisPage =="contact")  echo " class=\"current\""; ?> ><a href="classes.php">Contact</a>
+                                <li <?php if ($thisPage =="contact")  echo " class=\"current\""; ?> ><a href="contact.php">Contact</a>
                                             
                                 </li> 
                             </ul>
