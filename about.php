@@ -123,7 +123,7 @@ include "include/head.php" ?>
                                     <div class="single-item wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-abc-block"></i></div>
                                         <h3>Daily drop in</h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
+                                        <!-- <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div> -->
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">

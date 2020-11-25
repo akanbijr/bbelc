@@ -127,7 +127,7 @@
                                                 <li><a href="testimonial.php">Testimonials</a></li>
                                                 <li><a href="teachers.php">Our Teachers</a></li>
                                                 
-                                                <li><a href="faq.php">Frequently Asked Questions </a></li>
+                                                
                                                 <!-- <li><a href="error.html">Error Page</a></li> -->
                                             </ul>
                                         </li> 
@@ -162,6 +162,7 @@
                                         <li <?php if ($thisPage =="contact")  echo " class=\"current\""; ?> ><a href="contact.php">Contact</a>
                                             
                                             </li> 
+                                            <li <?php if ($thisPage =="contact")  echo " class=\"current\""; ?>><a href="faq.php">FAQ </a></li>
                                     </ul>
                                 </div>
                             </nav>
