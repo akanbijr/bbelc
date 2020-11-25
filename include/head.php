@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>BBELC - <?php if ($thisPage =="home")  echo " HOME"; elseif ($thisPage =="classes")  echo " CLASSES";  elseif ($thisPage =="contact")  echo " CONTACT";  elseif ($thisPage =="about")  echo " ABOUT"; elseif ($thisPage =="testimonial")  echo " TESTIMONIAL"; elseif ($thisPage =="teachers")  echo " TEACHERS"; elseif ($thisPage =="faq")  echo " FAQ"; ?> </title>
+<title>BBELC - <?php if ($thisPage =="home")  echo " HOME"; elseif ($thisPage =="classes")  echo " CLASSES";  elseif ($thisPage =="contact")  echo " CONTACT";  elseif ($thisPage =="about")  echo " ABOUT"; elseif ($thisPage =="testimonial")  echo " TESTIMONIAL"; elseif ($thisPage =="teachers")  echo " TEACHERS"; elseif ($thisPage =="faq")  echo " FAQ"; elseif ($thisPage =="gallery")  echo " GALLERY"; ?> </title>
 
 <!-- Stylesheets -->
 <link href="css/style.css" rel="stylesheet">

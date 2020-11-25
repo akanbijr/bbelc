@@ -7,10 +7,10 @@ include "include/head.php" ?>
         <div class="container">
             <div class="content-box">
                 <h1>About Us</h1>
-                <ul class="bread-crumb clearfix">
+                <!-- <ul class="bread-crumb clearfix">
                     <li><a href="index-2.html">Home</a></li>
                     <li>About</li>
-                </ul>
+                </ul> -->
             </div>
         </div>
     </section>
@@ -20,7 +20,7 @@ include "include/head.php" ?>
     <!-- about-section -->
     <section class="about-section style-two">
         <div class="anim-icon">
-            <div class="icon icon-1 float-bob-x"></div>
+            <!-- <div class="icon icon-1 float-bob-x"></div> -->
             <div class="icon icon-3"></div>
         </div>
         <div class="container">
@@ -75,7 +75,7 @@ include "include/head.php" ?>
         <div class="inner-content">
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12 service-column">
-                        <div class="service-block-one">
+                        <div class="service-block-one h500">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="flaticon-bus-1"></i></div>
                                 <h3><a href="#">OUR MISSION</a></h3>
@@ -83,8 +83,8 @@ include "include/head.php" ?>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 service-column">
-                        <div class="service-block-one">
+                    <div class="col-lg-6 col-md-6 col-sm-12 service-column margintop20m">
+                        <div class="service-block-one h500">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="flaticon-running"></i></div>
                                 <h3><a href="#">OUR VISION</a></h3>

@@ -14,3 +14,21 @@
 {
     margin-top: 20px;
 }
+@media only screen and (max-width: 414px) 
+{
+    .margintop20mq
+{
+    margin-top: 20px;
+}
+}
+@media only screen and (min-width: 768px) {
+    .h500 {
+      height: 600px !important;
+    }
+  }
+  @media only screen and (min-width: 1024px) {
+    .h500 {
+      height: 500px !important;
+    }
+  }
+  

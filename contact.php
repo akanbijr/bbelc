@@ -7,10 +7,10 @@ include "include/head.php" ?>
         <div class="container">
             <div class="content-box">
                 <h1>Contact</h1>
-                <ul class="bread-crumb clearfix">
+                <!-- <ul class="bread-crumb clearfix">
                     <li><a href="index.php">Home</a></li>
                     <li>Contact</li>
-                </ul>
+                </ul> -->
             </div>
         </div>
     </section>

@@ -19,7 +19,7 @@
                             <div class="about-widget footer-widget">
                                 <h3 class="widget-title">About BBELC</h3>
                                 <div class="widget-content">
-                                    <div class="text">
+                                    <div class="text" style="text-align: justify;">
                                         <p>Our mission is to provide a child friendly environment that is safe, secure, caring and stimulating, to enhance the development and education of children through play by delivering consistent learning and support whereby the children discover, learn and grow.
                                        </p>
                                     </div>
@@ -86,7 +86,7 @@
                         <div class="copyright">Copyright &copy; BBELC 2020 by <a href="https://dqtech.com.ng" target="_blank">DQtech</a></div>
                     </div>
                     <div class="right-content pull-right">
-                        <figure class="footer-logo"><a href="index.php"><img src="images/footer-logo.png" alt=""></a></figure>
+                        <!-- <figure class="footer-logo"><a href="index.php"><img src="images/footer-logo.png" alt=""></a></figure> -->
                         <ul class="social-style-one footer-social clearfix">
                             <li><a href="https://facebook.com/bbelcabuja" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="https://instagram.com/bbelcabuja" target="_blank"><i class="fab fa-instagram"></i></a></li>
@@ -120,6 +120,8 @@
 <script src="js/jquery.fancybox.js"></script>
 <script src="js/appear.js"></script>
 <script src="js/parallax.min.js"></script>
+
+<script src="js/isotope.js"></script>
 
 <!-- map script -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-CE0deH3Jhj6GN4YvdCFZS7DpbXexzGU"></script>
