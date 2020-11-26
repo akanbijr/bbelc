@@ -135,7 +135,7 @@
                                             
                                         </li> 
                                         <li class="logo-box">
-                                            <figure class="logo"><a href="index-2.html"><img src="images/logo.png" alt=""></a></figure>
+                                            <figure class="logo"><a href="index.php"><img src="images/logo.png" alt=""></a></figure>
                                         </li>
                                             <li <?php if ($thisPage =="gallery")  echo " class=\"current\""; ?> ><a href="gallery.php">Gallery</a>
                                             
@@ -175,7 +175,7 @@
         <!--Sticky Header-->
         <div class="sticky-header">
             <div class="container clearfix">
-                <figure class="logo-box"><a href="index-2.html"><img src="images/small-logo.png" alt=""></a></figure>
+                <figure class="logo-box"><a href="index.php"><img src="images/small-logo.png" alt=""></a></figure>
                 <div class="menu-area">
                     <nav class="main-menu navbar-expand-lg">
                         <div class="navbar-header">
