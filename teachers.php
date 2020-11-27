@@ -29,7 +29,6 @@ include "include/head.php" ?>
                                 <div class="date">School Director</div>
                                 <h3><a href="event-details.html">MRS EILEEN FAFOWORA </a></h3>
                                 <div class="text">B.A. EARLY YEARS TEACHING AND LEARNING & SPECIAL EDUCATIONAL NEEDS COORDINATOR (SENCO)</div>
-                                <div class="location"><i class="flaticon-pin"></i>Location: <span>NEW YORK</span></div>
                             </div>
                         </div>
                     </div>
@@ -42,7 +41,6 @@ include "include/head.php" ?>
                                 <div class="date" style="    padding: 10px 32px 14px 3px;">School Administrator </div>
                                 <h3><a href="event-details.html">Ms. ATIM ODIOKINE. </a></h3>
                                 <div class="text">B.SC. SOCIOLOGY</div>
-                                <div class="location"><i class="flaticon-pin"></i>Location: <span>NEW YORK</span></div>
                             </div>
                         </div>
                     </div>
@@ -55,7 +53,6 @@ include "include/head.php" ?>
                                 <div class="date">Head Teacher </div>
                                 <h3><a href="event-details.html">Mrs. IFEOMA CHUKUEMEKA</a></h3>
                                 <div class="text">B. A. EDUCATION</div>
-                                <div class="location"><i class="flaticon-pin"></i>Location: <span>NEW YORK</span></div>
                             </div>
                         </div>
                     </div>
@@ -68,7 +65,6 @@ include "include/head.php" ?>
                                 <div class="date">Class teacher </div>
                                 <h3><a href="event-details.html">Ms. FAITH OMORUYI</a></h3>
                                 <div class="text">NCE</div>
-                                <div class="location"><i class="flaticon-pin"></i>Location: <span>NEW YORK</span></div>
                             </div>
                         </div>
                     </div>
@@ -81,7 +77,6 @@ include "include/head.php" ?>
                                 <div class="date">Nursery nanny</div>
                                 <h3><a href="event-details.html">Mrs. MARTINAH UNAH</a></h3>
                                 <div class="text">NCE EDUCATION</div>
-                                <div class="location"><i class="flaticon-pin"></i>Location: <span>NEW YORK</span></div>
                             </div>
                         </div>
                     </div>
@@ -94,7 +89,6 @@ include "include/head.php" ?>
                                 <div class="date">Nursery nanny</div>
                                 <h3><a href="event-details.html">Ms. OLAYINKA OTITODUN </a></h3>
                                 <div class="text">NCE BUSINESS ADMINISTRATION</div>
-                                <div class="location"><i class="flaticon-pin"></i>Location: <span>NEW YORK</span></div>
                             </div>
                         </div>
                     </div>

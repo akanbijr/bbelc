@@ -21,7 +21,7 @@
     <div class="container">
         <div class="sec-title centred">
             <h5>Testimonials</h5>
-            <h1>Happy Parents Say</h1>
+            <h1>What Happy Parents Say</h1>
         </div>
         <div class="inner-content">
             <div class="row">

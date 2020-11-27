@@ -27,7 +27,7 @@ include "include/head.php" ?>
                 <div class="col-xl-6 col-lg-12 col-md-12 content-column">
                     <div class="content-box">
                         <div class="sec-title style-two">
-                            <h5>Faq’s</h5>
+                            <h5>FAQ HUB</h5>
                             <h1>Frequntly Ask Questions</h1>
                         </div>
                         <div class="text">
@@ -42,7 +42,7 @@ include "include/head.php" ?>
                             <li class="accordion block">
                                 <div class="acc-btn active">
                                     <div class="icon-outer"><i class="fas fa-angle-down"></i></div>
-                                    <h4>Q. Is There a Sleep or Rtest Time?</h4>
+                                    <h4>Q. Is There a Sleep or Rest Time?</h4>
                                 </div>
                                 <div class="acc-content current">
                                     <div class="content">
@@ -53,7 +53,7 @@ include "include/head.php" ?>
                             <li class="accordion block">
                                 <div class="acc-btn">
                                     <div class="icon-outer"><i class="fas fa-angle-down"></i></div>
-                                    <h4>Q. Children in Need Armistice Day?</h4>
+                                    <h4>Q. Do you have a bus service?</h4>
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">
@@ -64,7 +64,7 @@ include "include/head.php" ?>
                             <li class="accordion block">
                                  <div class="acc-btn">
                                     <div class="icon-outer"><i class="fas fa-angle-down"></i></div>
-                                    <h4>Q. Is Outdoor Play Supervised?</h4>
+                                    <h4>Q. Do you have daily drop offs</h4>
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">
@@ -75,7 +75,7 @@ include "include/head.php" ?>
                             <li class="accordion block">
                                  <div class="acc-btn">
                                     <div class="icon-outer"><i class="fas fa-angle-down"></i></div>
-                                    <h4>Q. How are Tuition and Fees Determined?</h4>
+                                    <h4>Q. Can I have a home nanny?</h4>
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">

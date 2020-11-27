@@ -17,7 +17,7 @@ include "include/head.php" ?>
                 <div class="container">
                     <div class="content-box">
                         <h3>BBELC</h3>
-                        <h1>Children build confidence for life</h1>
+                        <h1>A citadel of learning and excitement</h1>
                         <div class="btn-box"><a href="contact.php" class="theme-btn">Enrol Now</a></div>
                     </div>
                 </div>
@@ -92,8 +92,8 @@ include "include/head.php" ?>
                 <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                     <div class="content-box">
                         <div class="sec-title style-two">
-                            <h5>Welcome</h5>
-                            <h1 class="capitalize">Welcome to bright beginnings early years centre</h1>
+                            <h5>Welcome To</h5>
+                            <h1 class="capitalize">Bright Beginnings Early Learning Center, Abuja.</h1>
                         </div>
                         <div class="bold-text">We provide a broad and balanced curriculum with a focus on teaching and learning to enable each child to achieve his/her potential.</div>
                         <div class="text">
@@ -131,10 +131,10 @@ include "include/head.php" ?>
                 <div class="col-lg-5 col-md-12 col-sm-12 inner-column">
                     <div class="inner-content">
                         <div class="sec-title style-two">
-                            <h5>Classess</h5>
+                            <h5>Our Classess</h5>
                             <h1>Give your child the best</h1>
                         </div>
-                        <div class="text">BBLC recognise that  children are very special people and possess unique personalities with individual needs.</div>
+                        <div class="text">BBELC recognises that children are very special people and possess unique personalities with individual needs.</div>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-12 col-sm-12 carousel-column">
@@ -189,8 +189,8 @@ include "include/head.php" ?>
                     <div class="content-box">
                         <div class="title-box">
                             <div class="sec-title style-two">
-                                <h5>Services</h5>
-                                <h1>Our Services</h1>
+                                <h5>Our Services</h5>
+                                <h1>Services we offer at BBELC</h1>
                             </div>
                             <!-- <div class="text">Bright Beginnings Early Learning Centre avails your children will several services.</div> -->
                         </div>

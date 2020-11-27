@@ -16,7 +16,7 @@
         <div class="container">
             <div class="content-box">
                 <!-- <h3>Join with Kidko</h3> -->
-                <h1 class="capitalize">Enrol Your Child in <br/> bright beginnings early years centre</h1>
+                <h1 class="capitalize">Enrol Your Child at <br/> bright beginnings early learning centre</h1>
                 <div class="text">We look forward to welcoming you and your child on board. </div>
                 <div class="btn-box"><a href="contact.php" class="theme-btn">Enrol Now</a></div>
             </div>
