@@ -1,7 +1,5 @@
 <?php $thisPage ="about"; 
 include "include/head.php" ?>
-
-
     <!--Page Title-->
     <section class="page-title centred" style="background-image: url(images/background/page-title.jpg);">
         <div class="container">
@@ -32,16 +30,16 @@ include "include/head.php" ?>
                             <h1 class="capitalize">Welcome to bright beginnings early learning center</h1>
 
                         </div>
-                        <div class="bold-text" style="text-align: justify ">At Bright Beginnings Early Learning Center, we are an inclusive school that welcomes all children from its community. We offer excellent facilities for children ages 6 months to 6 years within a safe stimulating and fun environment. A large outdoor play area is available.
+                        <div class="bold-text" style="text-align: justify ">&nbsp &nbsp&nbsp&nbspAt Bright Beginnings Early Learning Center, we are an inclusive school that welcomes all children from its community. We offer excellent facilities for children ages 6 months to 6 years within a safe stimulating and fun environment. A large outdoor play area is available.
                         
                         </div>
                             <div class="bold-text">We provide a broad and balanced curriculum with a focus on teaching and learning to enable each child to achieve his/her potential.</div>
-                            <div class="bold-text">We aim to nurture children to be highly motivated, well behaved, and independent, encouraging each child in experimenting and exploring their environment in order to be imaginative and creative.</div>
-                            <div class="bold-text">We encourage a positive partnership with parents/carers, valuing them as early educators and partners in the provision of a high standard of care for their children.</div>
-                            <div class="bold-text">We also maintain an effective team; our staff are qualified and dedicated to their work. The care and safety of the children remain their highest priority. We actively ensure quality of standards in our setting by enrolling staff on training courses to keep up with new developments in child education and child welfare. We also actively engage in regular in- house training and ream building sessions.</div>
+                            <div class="bold-text">We aim to nurture children to be highly motivated, well behaved, and independent, encouraging each child in experimenting and <br>exploring their environment in order to be imaginative and creative.</div>
+                            <!-- <div class="bold-text">We encourage a positive partnership with parents/carers, valuing them as early educators and partners in the provision of a high standard of care for their children.</div> -->
+                            <!-- <div class="bold-text">We also maintain an effective team; our staff are qualified and dedicated to their work. The care and safety of the children remain their highest priority. We actively ensure quality of standards in our setting by enrolling staff on training courses to keep up with new developments in child education and child welfare. We also actively engage in regular in- house training and ream building sessions.</div>
                             <div class="bold-text">Our school ethos celebrates achievements and recognizes success.</div>
                             <div class="bold-text">We maintain policies and procedures for everybody in school where everyone feels valued.</div>
-                            <div class="bold-text"> We look forward to welcoming you and your child on board.</div>
+                            <div class="bold-text"> We look forward to welcoming you and your child on board.</div> -->
                         </div>
                         
                     </div>
@@ -130,35 +128,35 @@ include "include/head.php" ?>
                                     <div class="single-item wow fadeInRight" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-teddy-bear"></i></div>
                                         <h3>After school care</h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
+                                        <!-- <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div> -->
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-championship"></i></div>
                                         <h3><a href="#">After school learning</a></h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
+                                        <!-- <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div> -->
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInRight" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-playground"></i></div>
                                         <h3><a href="#">Music and Etiquette lesson</a></h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
+                                        <!-- <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div> -->
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-championship"></i></div>
                                         <h3><a href="#">Date night care</a></h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
+                                        <!-- <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div> -->
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-championship"></i></div>
                                         <h3><a href="#">Learning through play</a></h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
+                                        <!-- <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div> -->
                                     </div>
                                 </div>
                             </div>

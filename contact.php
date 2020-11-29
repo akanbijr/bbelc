@@ -27,7 +27,7 @@ include "include/head.php" ?>
                         <div class="inner-box">
                             <div class="icon-box"><i class="flaticon-address"></i></div>
                             <h3>Our Location</h3>
-                            <div class="text">C14, Sanctuary Court Estate,<br/>Karmo, Abuja.</div>
+                            <div class="text">C14, Sanctuary Court Estate,<br/>Zilley Aggrey Crescent, Karmo, Abuja.</div>
                         </div>
                     </div>
                 </div>
@@ -37,8 +37,8 @@ include "include/head.php" ?>
                             <div class="icon-box"><i class="flaticon-vintage-hand-phone"></i></div>
                             <h3>Call Us On</h3>
                             <div class="text">
-                                <a href="tel:081234567890">081234567890</a><br>
-                                <a href="tel:081234567890">081234567890</a>
+                                <a href="tel:08168791980">08168791980</a><br>
+                                <a href="tel:09020003810">09020003810</a>
                             </div>
                         </div>
                     </div>
@@ -50,7 +50,7 @@ include "include/head.php" ?>
                             <h3>Email Us At</h3>
                             <div class="text">
                                 <a href="mailto:info@bbelcabj.com">info@bbelcabj.com</a><br />
-                                <a href="mailto:brightbeginnings1@gmail.com">brightbeginnings1@gmail.com</a>
+                                <a href="mailto:brightbeginningschool1@gmail.com">brightbeginningschool1@gmail.com</a>
                             </div>
                         </div>
                     </div>

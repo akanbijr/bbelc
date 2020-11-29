@@ -66,11 +66,11 @@
                             <ul class="info-list">
                                 <li>
                                     <i class="fas fa-phone"></i>
-                                    <a href="tel:12345615523">081234567891</a>
+                                    <a href="tel:08168791980">08168791980</a>
                                 </li>
                                 <li>
                                     <i class="fas fa-envelope"></i>
-                                    <a href="mailto:info@example.com">info@bbelcabj.com</a>
+                                    <a href="mailto:info@bbelcabj.com">info@bbelcabj.com</a>
                                 </li>
                             </ul>
                         </div>
@@ -125,10 +125,6 @@
                                             <ul>
                                                 <li><a href="about.php">About BBELC</a></li>
                                                 <li><a href="testimonial.php">Testimonials</a></li>
-                                                <li><a href="teachers.php">Our Teachers</a></li>
-                                                
-                                                
-                                                <!-- <li><a href="error.html">Error Page</a></li> -->
                                             </ul>
                                         </li> 
                                         <li <?php if ($thisPage =="classes")  echo " class=\"current\""; ?> ><a href="classes.php">Classes</a>
@@ -195,8 +191,6 @@
                                     <ul>
                                         <li><a href="about.php">About BBELC</a></li>
                                         <li><a href="testimonial.php">Testimonials</a></li>
-                                        <li><a href="teachers.php">Our Teachers</a></li>
-                                        
                                         <li><a href="faq.php">Frequently Asked Questions </a></li>
                                         <!-- <li><a href="error.html">Error Page</a></li> -->
                                     </ul>

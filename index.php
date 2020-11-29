@@ -8,7 +8,7 @@ include "include/head.php" ?>
                 <div class="container">
                     <div class="content-box">
                         <h3>BBELC</h3>
-                        <h1>A place to explore and learn with fun</h1>
+                        <h1>Discover, Learn & Grow</h1>
                         <div class="btn-box"><a href="contact.php" class="theme-btn">Enrol Now</a></div>
                     </div>
                 </div>
@@ -33,48 +33,7 @@ include "include/head.php" ?>
             </div>
         </div>
     </section>
-    <!-- main-slider end -->
 
-
-    <!-- service-section -->
-    <!-- <section class="service-style-two">
-        <div class="container">
-            <div class="inner-content">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-12 service-column">
-                        <div class="service-block-one">
-                            <div class="inner-box">
-                                <div class="icon-box"><i class="flaticon-bus-1"></i></div>
-                                <h3><a href="#">Bus Service</a></h3>
-                                <div class="text">Cupidatat non proident sunt culpa qui officia deserunt mollit anim.</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 service-column">
-                        <div class="service-block-one">
-                            <div class="inner-box">
-                                <div class="icon-box"><i class="flaticon-running"></i></div>
-                                <h3><a href="#">Sports Training</a></h3>
-                                <div class="text">Cupidatat non proident sunt culpa qui officia deserunt mollit anim.</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 service-column">
-                        <div class="service-block-one">
-                            <div class="inner-box">
-                                <div class="icon-box"><i class="flaticon-drum"></i></div>
-                                <h3><a href="#">Music Training</a></h3>
-                                <div class="text">Cupidatat non proident sunt culpa qui officia deserunt mollit anim.</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!-- service-section end -->
-
-     <!-- about-section -->
      <section class="about-section">
         <div class="anim-icon">
             <div class="icon icon-1 float-bob-x"></div>
@@ -97,7 +56,6 @@ include "include/head.php" ?>
                         </div>
                         <div class="bold-text">We provide a broad and balanced curriculum with a focus on teaching and learning to enable each child to achieve his/her potential.</div>
                         <div class="text">
-                            <p class="justify">We aim to nurture children to be highly motivated, well behaved, and independent, encouraging each child in experimenting and exploring their environment in order to be imaginative and creative.</p>
                         </div>
                         <div class="btn-box"><a href="about.php" class="theme-btn">More About Us</a></div>
                     </div>
@@ -105,11 +63,6 @@ include "include/head.php" ?>
             </div>
         </div>
     </section>
-    <!-- about-section end -->
-
-
-
-    <!-- classes-section -->
     <section class="classes-section style-two style-three">
         <div class="parallax-scene parallax-scene-1 parallax-icon">
             <span data-depth="0.40" class="parallax-layer icon icon-1"></span>
@@ -145,10 +98,8 @@ include "include/head.php" ?>
                                 <div class="lower-content">
                                     <div style="top: -35px;" class="link-btn"><a href="classes.php"><i class="flaticon-next"></i></a></div>
                                     <h3><a href="classes.php">LADYBIRD</a></h3>
-                                    
                                     <ul class="info-box">
                                         <li><span>6 Months - 18 Months</span></li>
-                                        <!-- <li>Size: <span>12 Seats</span></li> -->
                                     </ul>
                                 </div>
                             </div>
@@ -160,7 +111,6 @@ include "include/head.php" ?>
                                    
                                     <ul class="info-box">
                                         <li><span>4 - 5 Years</span></li>
-                                        <!-- <li>Size: <span>12 Seats</span></li> -->
                                     </ul>
                                 </div>
                             </div>
@@ -173,10 +123,6 @@ include "include/head.php" ?>
             </div>
         </div>
     </section>
-    <!-- classes-section end -->
-
-
-    <!-- activities-section -->
     <section class="activities-section style-two">
         <div class="container">
             <div class="row">
@@ -200,32 +146,15 @@ include "include/head.php" ?>
                                     <div class="single-item wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-abc-block"></i></div>
                                         <h3>Daily drop in</h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                                     <div class="single-item wow fadeInRight" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         <div class="icon-box"><i class="flaticon-teddy-bear"></i></div>
                                         <h3>After school care</h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
                                     </div>
                                 </div>
                                 <div class="btn-box"><a href="about.php#service" class="theme-btn">OUR SERVICES</a></div>
-
-                                <!-- <div class="col-lg-6 col-md-6 col-sm-12 column">
-                                    <div class="single-item wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
-                                        <div class="icon-box"><i class="flaticon-championship"></i></div>
-                                        <h3><a href="#">Outdoor Games</a></h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-12 column">
-                                    <div class="single-item wow fadeInRight" data-wow-delay="00ms" data-wow-duration="1500ms">
-                                        <div class="icon-box"><i class="flaticon-playground"></i></div>
-                                        <h3><a href="#">Play Area</a></h3>
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor </div>
-                                    </div>
-                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -233,13 +162,7 @@ include "include/head.php" ?>
             </div>
         </div>
     </section>
-    <!-- activities-section end -->
-
-
-  
     <?php 
 include "include/cta.php" ?>
-
-
     <?php 
 include "include/footer.php" ?>

@@ -1,5 +1,3 @@
-
-    <!-- main-footer -->
     <footer class="main-footer">
         <link rel="stylesheet" type="text/css" href="css/abiodun.css">
         <div class="footer-top">
@@ -49,9 +47,9 @@
                                     <div class="text">Visit us today so that<br> we can start those little<br> steps toward greatness
                                         </div>
                                     <ul class="info-list">
-                                        <li><i class="fas fa-home"></i>C14, Sanctuary Court Estate<br>Karmo, Abuja</li>
-                                        <li><i class="fas fa-phone"></i><a href="tel:88657524332">0801234503421</a></li>
-                                        <li><i class="fas fa-envelope"></i><a href="mailto:info@example.com">info@bbelcabj.com</a></li>
+                                        <li><i class="fas fa-home"></i>C14, Sanctuary Court Estate<br>Zilley Aggrey Crescent,<br> Karmo, Abuja</li>
+                                        <li><i class="fas fa-phone"></i><a href="tel:08168791980">08168791980</a></li>
+                                        <li><i class="fas fa-envelope"></i><a href="mailto:info@bbelcabj.com">info@bbelcabj.com</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -86,7 +84,6 @@
                         <div class="copyright">Copyright &copy; BBELC 2020 by <a href="https://dqtech.com.ng" target="_blank">DQtech</a></div>
                     </div>
                     <div class="right-content pull-right">
-                        <!-- <figure class="footer-logo"><a href="index.php"><img src="images/footer-logo.png" alt=""></a></figure> -->
                         <ul class="social-style-one footer-social clearfix">
                             <li><a href="https://facebook.com/bbelcabuja" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="https://instagram.com/bbelcabuja" target="_blank"><i class="fab fa-instagram"></i></a></li>
@@ -98,11 +95,6 @@
             </div>
         </div>
     </footer>
-    <!-- main-footer end -->
-
-
-
-<!--Scroll to top-->
 <button class="scroll-top scroll-to-target" data-target="html">
     <i class="fa fa-arrow-up"></i>
 </button>
@@ -123,15 +115,12 @@
 
 <script src="js/isotope.js"></script>
 
-<!-- map script -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-CE0deH3Jhj6GN4YvdCFZS7DpbXexzGU"></script>
 <script src="js/gmaps.js"></script>
 <script src="js/map-helper.js"></script>
 
-<!-- main-js -->
 <script src="js/script.js"></script>
 
-</body><!-- End of .page_wrapper -->
+</body>
 
-<!-- Mirrored from azim.commonsupport.com/Kidko/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Nov 2020 11:30:37 GMT -->
 </html>
