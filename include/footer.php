@@ -81,7 +81,7 @@
             <div class="container">
                 <div class="inner-container clearfix">
                     <div class="left-content pull-left">
-                        <div class="copyright">Copyright &copy; BBELC 2020 by <a href="https://dqtech.com.ng" target="_blank">DQtech</a></div>
+                        <div class="copyright">2020 Copyright &copy; BBELC by <a href="https://dqtech.com.ng" target="_blank">DQtech</a></div>
                     </div>
                     <div class="right-content pull-right">
                         <ul class="social-style-one footer-social clearfix">
