@@ -1,7 +1,9 @@
 <?php $thisPage ="contact"; 
 include "include/head.php" ?>
 <link rel="stylesheet" type="text/css" href="css/abiodun.css">
-
+<head>
+<meta name="description" content="Visit us at C14 Sanctuary Court, Zilley Aggrey Crescent, Karmo, Abuja.">
+</head>
     <!--Page Title-->
     <section class="page-title centred" style="background-image: url(images/background/page-title.jpg);">
         <div class="container">

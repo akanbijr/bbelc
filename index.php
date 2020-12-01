@@ -1,5 +1,8 @@
 <?php $thisPage ="home"; 
 include "include/head.php" ?>
+<head>
+<meta name="description" content="Bright Beginnings Early Learning Center is a leading nursery school based in the heart of the capital Abuja.">
+</head>
 
     <!-- main-slider -->
     <section class="main-slider style-three">

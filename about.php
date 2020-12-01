@@ -1,5 +1,8 @@
 <?php $thisPage ="about"; 
 include "include/head.php" ?>
+<head>
+<meta name="description" content="BBELC is one of the leading nursery schools in Abuja with the goal of providing students with learning and fun!">
+</head>
     <!--Page Title-->
     <section class="page-title centred" style="background-image: url(images/background/page-title.jpg);">
         <div class="container">
