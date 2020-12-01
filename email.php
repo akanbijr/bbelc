@@ -12,7 +12,7 @@ ini_set('date.timezone', 'Africa/Lagos');
 $DD = date('M d, Y');
 
 $recipients = "info@bbelcabj.com";
-$recipients2 = "brightbeginnings1@gmail.com";
+$recipients2 = "brightbeginningschool1@gmail.com";
 
 $fromer = $email;
 
@@ -22,7 +22,7 @@ $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 
 // Create email headers
 $headers .= "From: ".$email."\r\n";
-$headers .= "Reply-To: brightbeginnings1@gmail.com\r\n";
+$headers .= "Reply-To: brightbeginningschool1@gmail.com\r\n";
 $headers .= "X-Mailer: PHP/" . phpversion();
 
 $message = '

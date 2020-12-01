@@ -121,7 +121,7 @@
                                         <li <?php if ($thisPage =="home")  echo " class=\"current\""; ?> ><a href="index.php">Home</a>
                                           
                                         </li>
-                                        <li <?php if ($thisPage =="about")  echo " class=\"current dropdown\"";  elseif ($thisPage =="testimonial")  echo " class=\"current dropdown\""; if ($thisPage =="teachers")  echo " class=\"current dropdown\""; elseif ($thisPage =="faq")  echo " class=\"current dropdown\""; ?> class="dropdown" ><a href="#">About</a>
+                                        <li <?php if ($thisPage =="about")  echo " class=\"current dropdown\"";  elseif ($thisPage =="testimonial")  echo " class=\"current dropdown\""; if ($thisPage =="teachers")  echo " class=\"current dropdown\"";   ?> class="dropdown" ><a href="#">About</a>
                                             <ul>
                                                 <li><a href="about.php">About BBELC</a></li>
                                                 <li><a href="testimonial.php">Testimonials</a></li>
@@ -158,7 +158,7 @@
                                         <li <?php if ($thisPage =="contact")  echo " class=\"current\""; ?> ><a href="contact.php">Contact</a>
                                             
                                             </li> 
-                                            <li <?php if ($thisPage =="contact")  echo " class=\"current\""; ?>><a href="faq.php">FAQ </a></li>
+                                            <li <?php if ($thisPage =="faq")  echo " class=\"current\""; ?>><a href="faq.php">FAQ </a></li>
                                     </ul>
                                 </div>
                             </nav>
@@ -187,11 +187,11 @@
                                 <li <?php if ($thisPage =="home")  echo " class=\"current\""; ?> ><a href="index.php">Home</a>
                                           
                                 </li>
-                                <li <?php if ($thisPage =="about")  echo " class=\"current dropdown\""; elseif ($thisPage =="testimonial")  echo " class=\"current dropdown\""; elseif ($thisPage =="teachers")  echo " class=\"current dropdown\""; elseif ($thisPage =="faq")  echo " class=\"current dropdown\"";?> class="dropdown"><a href="#">About</a>
+                                <li <?php if ($thisPage =="about")  echo " class=\"current dropdown\""; elseif ($thisPage =="testimonial")  echo " class=\"current dropdown\""; elseif ($thisPage =="teachers")  echo " class=\"current dropdown\""; ?> class="dropdown"><a href="#">About</a>
                                     <ul>
                                         <li><a href="about.php">About BBELC</a></li>
                                         <li><a href="testimonial.php">Testimonials</a></li>
-                                        <li><a href="faq.php">Frequently Asked Questions </a></li>
+                                        <!-- <li><a href="faq.php">Frequently Asked Questions </a></li> -->
                                         <!-- <li><a href="error.html">Error Page</a></li> -->
                                     </ul>
                                 </li> 
@@ -223,6 +223,8 @@
                                 <li <?php if ($thisPage =="contact")  echo " class=\"current\""; ?> ><a href="contact.php">Contact</a>
                                             
                                 </li> 
+                                <li <?php if ($thisPage =="faq")  echo " class=\"current\""; ?>><a href="faq.php">FAQ </a></li>
+
                             </ul>
                         </div>
                     </nav>
