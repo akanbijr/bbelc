@@ -47,7 +47,7 @@
                                     <div class="text">Visit us today so that<br> we can start those little<br> steps toward greatness
                                         </div>
                                     <ul class="info-list">
-                                        <li><i class="fas fa-home"></i>C14, Sanctuary Court Estate<br>Zilley Aggrey Crescent,<br> Karmo, Abuja</li>
+                                        <li><i class="fas fa-home"></i>C14, Sanctuary Court Estate<br>Zilley Aggrey Crescent,<br> Karmo, Abuja.</li>
                                         <li><i class="fas fa-phone"></i><a href="tel:08168791980">08168791980</a></li>
                                         <li><i class="fas fa-envelope"></i><a href="mailto:info@bbelcabj.com">info@bbelcabj.com</a></li>
                                     </ul>
