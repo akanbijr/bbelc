@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from azim.commonsupport.com/Kidko/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Nov 2020 11:28:43 GMT -->
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
