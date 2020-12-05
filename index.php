@@ -2,6 +2,7 @@
 include "include/head.php" ?>
 <head>
 <meta name="description" content="Bright Beginnings Early Learning Center is a leading nursery school based in the heart of the capital Abuja.">
+<meta name="keywords" content="Nursery, school, learn, play, fun, kids, children, best, abuja, city, around">
 </head>
 
     <!-- main-slider -->
