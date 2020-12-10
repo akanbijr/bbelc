@@ -106,7 +106,7 @@ include "include/head.php" ?>
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12 image-column">
                     <div class="image-box clearfix">
-                        <figure class="image"><img src="images/resource/activities-2.jpg" alt=""></figure>
+                        <figure class="image"><img src="images/resource/activities-2.png" alt=""></figure>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 content-column">
