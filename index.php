@@ -98,7 +98,7 @@ include "include/head.php" ?>
                     <div class="carousel-content">
                         <div class="classes-carousel owl-carousel owl-theme">
                             <div class="inner-block wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                <figure class="image-box"><a href="classes.php"><img src="images/resource/class-1.jpg" alt=""></a></figure>
+                                <figure class="image-box"><a href="classes.php"><img src="images/resource/news-1.jpg" alt=""></a></figure>
                                 <div class="lower-content">
                                     <div style="top: -35px;" class="link-btn"><a href="classes.php"><i class="flaticon-next"></i></a></div>
                                     <h3><a href="classes.php">LADYBIRD</a></h3>
@@ -108,7 +108,7 @@ include "include/head.php" ?>
                                 </div>
                             </div>
                             <div class="inner-block wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                                <figure class="image-box"><a href="classes.php"><img src="images/resource/class-2.jpg" alt=""></a></figure>
+                                <figure class="image-box"><a href="classes.php"><img src="images/resource/news-5.jpg" alt=""></a></figure>
                                 <div class="lower-content">
                                     <div style="top: -35px;" class="link-btn"><a href="classes.php"><i class="flaticon-next"></i></a></div>
                                     <h3><a href="classes.php"> Butterfly</a></h3>
@@ -132,7 +132,7 @@ include "include/head.php" ?>
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12 image-column">
                     <div class="image-box clearfix">
-                        <figure class="image"><img src="images/resource/activities-2.jpg" alt=""></figure>
+                        <figure class="image"><img src="images/resource/activities-2.png" alt=""></figure>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 content-column">
@@ -142,7 +142,6 @@ include "include/head.php" ?>
                                 <h5>Our Services</h5>
                                 <h1>Services we offer at BBELC</h1>
                             </div>
-                            <!-- <div class="text">Bright Beginnings Early Learning Centre avails your children will several services.</div> -->
                         </div>
                         <div class="inner-box">
                             <div class="row">
