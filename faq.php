@@ -7,17 +7,9 @@ include "include/head.php" ?>
         <div class="container">
             <div class="content-box">
                 <h1>FAQ’S</h1>
-                <!-- <ul class="bread-crumb clearfix">
-                    <li><a href="index-2.html">Home</a></li>
-                    <li>About</li>
-                </ul> -->
             </div>
         </div>
     </section>
-    <!--End Page Title-->
-
-
-    <!-- faq-page-section -->
     <section class="faq-page-section">
         <div class="anim-icon">
             <div class="icon icon-1 float-bob-y"></div>
@@ -31,8 +23,7 @@ include "include/head.php" ?>
                             <h1>Frequntly Ask Questions</h1>
                         </div>
                         <div class="text">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit</p>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p>
+                            <p>We've provided some of our child care and preschool frequently asked questions below. Please feel free to contact us via telephone or our feedback form if you need further information.</p>
                         </div>
                     </div>
                 </div>
@@ -42,22 +33,22 @@ include "include/head.php" ?>
                             <li class="accordion block">
                                 <div class="acc-btn active">
                                     <div class="icon-outer"><i class="fas fa-angle-down"></i></div>
-                                    <h4>Q. Is There a Sleep or Rest Time?</h4>
+                                    <h4>Q. What ages of children do you accept?</h4>
                                 </div>
                                 <div class="acc-content current">
                                     <div class="content">
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing  sed do eiusmod tempor incididunt ut labore magna aliqua enim minim veniam quis nostrud.</div>
+                                        <div class="text">Here at BBELC, We accept children from ages 6 months to 6 years.</div>
                                     </div>
                                 </div>
                             </li>
                             <li class="accordion block">
                                 <div class="acc-btn">
                                     <div class="icon-outer"><i class="fas fa-angle-down"></i></div>
-                                    <h4>Q. Do you have a bus service?</h4>
+                                    <h4>Q. What are your hours of operation?</h4>
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing  sed do eiusmod tempor incididunt ut labore magna aliqua enim minim veniam quis nostrud.</div>
+                                        <div class="text">We operate from 8am to 6pm on weekdays.</div>
                                     </div>
                                 </div>
                             </li>
@@ -68,18 +59,18 @@ include "include/head.php" ?>
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing  sed do eiusmod tempor incididunt ut labore magna aliqua enim minim veniam quis nostrud.</div>
+                                        <div class="text">Yes! We provide daily drop-offs.</div>
                                     </div>
                                 </div>
                             </li>
                             <li class="accordion block">
                                  <div class="acc-btn">
                                     <div class="icon-outer"><i class="fas fa-angle-down"></i></div>
-                                    <h4>Q. Can I have a home nanny?</h4>
+                                    <h4>Q. Do you provide meals and snacks?</h4>
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing  sed do eiusmod tempor incididunt ut labore magna aliqua enim minim veniam quis nostrud.</div>
+                                        <div class="text"> No we do not, parents/guardians are expected to provide the meals of their wards</div>
                                     </div>
                                 </div>
                             </li>
@@ -90,7 +81,7 @@ include "include/head.php" ?>
                                 </div>
                                 <div class="acc-content">
                                     <div class="content">
-                                        <div class="text">Lorem ipsum dolor amet consectetur adipisicing  sed do eiusmod tempor incididunt ut labore magna aliqua enim minim veniam quis nostrud.</div>
+                                        <div class="text">Yes it is. Outdoor play is supervised at all times.</div>
                                     </div>
                                 </div>
                             </li>
@@ -100,10 +91,6 @@ include "include/head.php" ?>
             </div>
         </div>
     </section>
-    <!-- faq-page-section end -->
-
-
-    <!-- contact-style-two -->
     <section class="contact-style-two centred sec-pad">
         <div class="container">
             <div class="row">
@@ -111,7 +98,7 @@ include "include/head.php" ?>
                     <div class="inner-box">
                         <div class="sec-title">
                             <h5>Contact</h5>
-                            <h1>Ask A Question</h1>
+                            <h1>Ask Us A Question</h1>
                         </div>
                         <div class="form-area">
                             <form method="post" action="email.php" id="contact-form" class="default-form"> 
@@ -142,11 +129,7 @@ include "include/head.php" ?>
             </div>
         </div>
     </section>
-    <!-- contact-style-two -->
-
     <?php 
 include "include/cta.php" ?>
-
-
     <?php 
 include "include/footer.php" ?>
